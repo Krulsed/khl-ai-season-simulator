@@ -13,7 +13,7 @@ KHL AI: Season Simulator
 Технологии
 Python
 PySide6 (Qt for Python)
-SQLite (позже)
+SQLite (позже)  
 Структура проекта
 khl_Ai/
   main.py      # запуск и проверки
