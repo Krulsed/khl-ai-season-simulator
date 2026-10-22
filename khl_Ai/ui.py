@@ -16,8 +16,8 @@ layout = QVBoxLayout()
 
 ##
 layout = QVBoxLayout()
-layout.setSpacing(22)
-layout.setContentsMargins(290, 50, 290, 50)
+layout.setSpacing(24)
+layout.setContentsMargins(292, 52, 292, 52)
 layout.addStretch()
 layout.addWidget(btn_continue)
 layout.addWidget(btn_stats)
